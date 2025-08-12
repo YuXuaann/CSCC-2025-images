@@ -1,2 +1,3 @@
-# -CSCC-2025-images
-CSCC OS Competition 2025 filesystem images summary.
+# CSCC-2025-images
+
+Provide the latest compiled file system image.
